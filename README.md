@@ -1,17 +1,11 @@
 # KiosCorn-CLI
 ## Swift로 키오스크 프로그래밍 완성하기
 
-## 프로젝트 소개
+## 프로젝트 소개 
 
-**KiosCorn(키오스콘)은 Kiosk와 Popcorn의 합성어로, 영화관 매점의 키오스크를 Xcode Command Line Tool 로 만든 콘솔 프로그램입니다.**
+**KiosCorn(키오스콘)** 은 Kiosk와 Popcorn의 합성어로, **영화관 매점의 키오스크를 Xcode Command Line Tool 로 만든 콘솔 프로그램입니다.**
 
-Lv1부터 Lv5까지 총 여섯단계에 걸쳐서 발전시킨 과제입니다.
-
-### 과제 요구사항
-
-> 1. 메뉴판을 보고 주문할 수 있는 Swift 프로그램
-> 2. 화면은 콘솔창에 심플하게 출력
-> 3. 메뉴 클래스와 주문 클래스를 사용하여 Swift의 상속을 최대한 사용
+Lv1부터 Lv5까지 총 다섯단계에 걸쳐서 발전시킨 과제입니다.
 
 ---
 ## Stacks 🐈
