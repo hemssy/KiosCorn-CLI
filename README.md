@@ -3,7 +3,7 @@
 
 ## 프로젝트 소개
 
-KiosCorn(키오스콘)은 Kiosk와 Popcorn의 합성어로, 영화관 매점의 키오스크를 Xcode Command Line Tool 로 만든 콘솔 프로그램입니다. 
+**KiosCorn(키오스콘)은 Kiosk와 Popcorn의 합성어로, 영화관 매점의 키오스크를 Xcode Command Line Tool 로 만든 콘솔 프로그램입니다.**
 
 Lv1부터 Lv5까지 총 여섯단계에 걸쳐서 발전시킨 과제입니다.
 
